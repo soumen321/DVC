@@ -1,0 +1,4 @@
+[core]
+    remote = wineremote
+['remote "wineremote"']
+    url = s3://aws-bedrock-blogs-bucket-220781
