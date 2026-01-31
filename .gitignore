@@ -1,0 +1,5 @@
+data/wine_sample.csv
+venv/
+__pycache__/
+.venv/
+.ipynb_checkpoints/
