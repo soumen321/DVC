@@ -1,6 +1,7 @@
+# DVC + S3 + GIT
+
 ## Wine Prediction
 
-### DVC + S3 + GIT
 
 Setup DVC for Wine Predection Dataset.
 Use S3 as Remote clous storage service and Git to track pointers to Dataset.
