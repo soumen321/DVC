@@ -1,5 +1,11 @@
 # DVC + S3 + GIT
 
+Git is not good for data versioning
+
+- Large file
+- Slow
+- In effective cost solution
+
 ## Wine Prediction
 
 
